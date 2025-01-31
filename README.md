@@ -1,9 +1,8 @@
-<b>Paramo_etal_2021_CRes_3D-Hindlimb-LoHueco</b>
+Paramo_etal_2024_eLife_Evolution hindlimb Titanosauriformes
 
-Supplementary Material of the scientific article:
+Supplementary Material of the scientific article (reviewed preprint):
+Páramo, A., Mocho, P., Escaso, F., & Ortega, F. (2024). Evolution of hind limb morphology of Titanosauriformes (Dinosauria, Sauropoda) analyzed via 3D Geometric Morphometrics reveals wide-gauge posture as an exaptation for gigantism. eLife, 13. https://doi.org/10.7554/eLife.92498.1.
 
-Páramo, A., Mocho, P., Escaso, F., Marcos-Fernández, F, Sanz, J.L., Ortega, F., 2022. 3D geometric morphometrics of the hind limb in the titanosaur sauropods from Lo Hueco (Cuenca, Spain). C.Res. 134, 105147. https://doi.org/10.1016/j.cretres.2022.105147
+This is the supplementary material as presented in the online manuscript of eLife and biorxiv (https://www.biorxiv.org/content/10.1101/2023.10.04.560839v2). The Paramo etal_Appendix_S1_rev.zip file includes in a single file the entire landmark datasets, specimen datasets and the estimated landmarks as well as the template mesh.
+The Appendix S5 is the R code for the analyses, including the code for the supplementary analyses.
 
-This is the supplementary material as presented in the online manuscript of the Cretaceous Research. The Supplementary Material 1-zip file includes in a single file the entire landmark datasets, specimen datasets and the estimated landmarks.
-
-The Supplementary data 6 is the R code.
