@@ -1,4 +1,4 @@
-Paramo_etal_2021_CRes_3D-Hindlimb-LoHueco
+<b>Paramo_etal_2021_CRes_3D-Hindlimb-LoHueco</b>
 
 Supplementary Material of the scientific article:
 
